@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello! My name is **________**.
+Hello! My name is **Michelle**.
 
 This repository contains my laboratory projects and activities.
 
