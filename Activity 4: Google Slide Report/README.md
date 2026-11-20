@@ -1,1 +1,1 @@
-
+This activity focuses on creating and organizing a report using Google Slides. It involves presenting information clearly through well-designed slides, appropriate formatting, and effective visual elements.
